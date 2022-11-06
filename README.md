@@ -1,6 +1,6 @@
 # my-platform-gameu
 
-##goal
+## goal
 
 get the hero to the file while avoiding the monster. clear all three levels and you win the game.
 
